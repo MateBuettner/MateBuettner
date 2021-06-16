@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateBuettner
 - 👀 I’m interested in Data Science, Analytics, and Space
 - 🌱 I’m currently learning Data Science / Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
 <!---
